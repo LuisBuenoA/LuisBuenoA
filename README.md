@@ -19,7 +19,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp; Languages:
-  <img src="https://img.shields.io/badge/COBOL%20-%2314304C.svg?&style=for-the-badge&logo=cobol&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/COBOL-%2210104C.svg?&style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
