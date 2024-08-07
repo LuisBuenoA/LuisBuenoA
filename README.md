@@ -1,26 +1,25 @@
-<h2> Hi! I'm Yago Tobio 👋 - I like to solve really annoying problems</h2>
+<h2> Hi! I'm Luis Bueno Archaga 👋 </h2>
 
-🚀 Passionate about Entrepreneurship, Product Development, Data Science & AI | 🎓 Computer Engineering & Business Analytics Graduate
+🚀 Passionate about Entrepreneurship, Develop Tech Projects & Bank Tech | 🎓 Computer Engineering & Business Analytics Graduate
 
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
-- 🔭 &nbsp; Currently working on: Getting my GitHub profile cleaned up and developing my portfolio!
-- 🌱 &nbsp; Now that I've graduated, I'm developing new projects and diving deeper into Data Science, AI, product development, and electronics.
+- 🟠 &nbsp; Now that I've graduated, I'm working in developing projects at Bankinter.
 - 🎓 &nbsp; B.Eng in Computer Engineering & B.B.A in Business Analytics from Universidad Pontificia Comillas.
-- 💼 &nbsp; Previous roles: Sales Intelligence & Strategy @ Salesforce; Data Engineer @ VMLYR
-- 🏄‍♂️ &nbsp; When I'm not coding: Skateboarding, reading, travelling.
+- 💼 &nbsp; Previous roles: Organizational transformation @ Prosegur; Cybersegurity @ Accenture; Finance data analyst @ 24Genetics
+- 🏄‍♂️ &nbsp; When I'm not working: Scout, enjoying filosophy, travelling.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://yago-tobio.notion.site"><img alt="Website" src="https://img.shields.io/badge/Website-yago--tobio.notion.site-blue?style=for-the-badge&logo=notion"></a>
-<a href="https://www.linkedin.com/in/yago-tobio-souto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-yago--tobio--souto-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:yagotobiosouto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yagotobiosouto@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/luis-bueno-archaga-2687b6195"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-yago--tobio--souto-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:lbarchaga@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yagotobiosouto@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 </p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp; Languages:
+  <img src="https://img.shields.io/badge/COBOL%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
