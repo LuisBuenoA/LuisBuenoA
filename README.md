@@ -7,7 +7,7 @@
 - 🟠 &nbsp; Now that I've graduated, I'm working in developing projects at Bankinter.
 - 🎓 &nbsp; B.Eng in Computer Engineering & B.B.A in Business Analytics from Universidad Pontificia Comillas.
 - 💼 &nbsp; Previous roles: Organizational transformation @ Prosegur; Cybersegurity @ Accenture; Finance data analyst @ 24Genetics
-- 🏄‍♂️ &nbsp; When I'm not working: Scout, enjoying filosophy, travelling.
+- 🏄‍♂️ &nbsp; When I'm not working: Scout, enjoying philosophy, travelling.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
