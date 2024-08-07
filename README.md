@@ -12,8 +12,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/luis-bueno-archaga-2687b6195"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-yago--tobio--souto-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:lbarchaga@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yagotobiosouto@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/luis-bueno-archaga-2687b6195"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-luis-bueno-archaga-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:lbarchaga@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lbarchaga@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 </p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
